@@ -9,6 +9,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wallacewss2033&show_icons=true&theme=radical)
 
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="wallace-s-370210a7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wallace-s-370210a7?trk=profile-badge">Wallace S.</a></div>
+              
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block">
 </br>
